@@ -3,5 +3,6 @@ def alphabetize(arr)
     word.split(' ').map do |letter|
       ALPHABET.index(letter)
     end
+  end
     arr
 end
