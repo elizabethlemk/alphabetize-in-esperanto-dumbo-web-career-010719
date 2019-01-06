@@ -4,5 +4,5 @@ def alphabetize(arr)
       ALPHABET.index(letter)
     end
   end
-    arr
+arr
 end
